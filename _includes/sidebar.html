@@ -1,14 +1,34 @@
 <div id="sidebar">
 
-	<!-- Sidebar -->
-	{% for post in site.posts offset: 0 limit: 2 %}
-		<section>
-			<h3>{{ post.title }}</h3>
-			{{ post.excerpt }}
-			<footer>
-				<a href="{{ site.baseurl }}{{ post.url }}" class="button">Continue Reading</a>
-			</footer>
-		</section>
-	{% endfor %}
-	
+	<!-- Services Snapshot -->
+	<section>
+		<h3>Core Services</h3>
+		<ul class="links">
+			<li>Spatial Planning & GIS Analysis</li>
+			<li>Biodiversity Conservation Strategy</li>
+			<li>Ecosystem Restoration Planning</li>
+			<li>Climate Resilience Assessment</li>
+			<li>Landscape & Watershed Planning</li>
+		</ul>
+		<footer>
+			<a href="{{ site.baseurl }}/services/" class="button">
+				View All Services
+			</a>
+		</footer>
+	</section>
+
+	<!-- Contact Box -->
+	<section>
+		<h3>Work With Us</h3>
+		<p>
+			We collaborate with governments, NGOs, and private sector partners 
+			to design science-based environmental solutions.
+		</p>
+		<footer>
+			<a href="{{ site.baseurl }}/contact/" class="button alt">
+				Start a Conversation
+			</a>
+		</footer>
+	</section>
+
 </div>
