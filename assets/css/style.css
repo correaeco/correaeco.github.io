@@ -840,9 +840,13 @@
     font-size: 0.9em;
 }
 
-/* 👇 ADD THIS HERE */
-#footer .button,
-#footer .button:hover,
-#footer .button:active {
-    color: #000;
+#footer .button {
+    background-color: #2e7d32;
+    color: #ffffff;
+    border: none;
+}
+
+#footer .button:hover {
+    background-color: #1b5e20;
+    color: #ffffff;
 }
