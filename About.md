@@ -59,7 +59,5 @@ permalink: /about/
 		</div>
 	</div>
 </section>
-
-</div>
 </div>
 </section>
