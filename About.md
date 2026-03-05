@@ -4,43 +4,61 @@ layout: default
 permalink: /about/
 ---
 
+<!-- Main -->
 <section class="wrapper style1">
-<div class="container">
-<div id="content">
+	<div class="container">
+		<div class="row double">
 
-<article>
+			<!-- Sidebar -->
+			<div class="4u">
+				{% include sidebar.html %}
+			</div>
 
-<header>
-<h2>About CorreaEco</h2>
-<p>Science-based environmental consulting.</p>
-</header>
+			<!-- Content -->
+			<div class="8u skel-cell-important">
+				<div id="content">
 
-<section id="banner"></section>
+					<article>
+						<header>
+							<h2>About CorreaEco</h2>
+							<p>Science-based environmental consulting.</p>
+						</header>
 
-<p>
-CorreaEco provides advanced spatial analysis and environmental strategy to support
-ecosystem restoration, conservation planning, and climate resilience. The work integrates
-geographic information systems (GIS), ecological modelling, and sustainability frameworks
-to guide decision-making for governments, NGOs, and international initiatives.
-</p>
+						<span class="image featured">
+							<img src="{{ site.baseurl }}/assets/images/Foto2.JPG" alt="Landscape restoration planning" />
+						</span>
 
-<h3>Approach</h3>
+						<p>
+						CorreaEco provides advanced spatial analysis and environmental strategy to support
+						ecosystem restoration, conservation planning, and climate resilience. The work integrates
+						geographic information systems (GIS), ecological modelling, and sustainability frameworks
+						to guide decision-making for governments, NGOs, and international initiatives.
+						</p>
 
-<p>
-Our approach combines scientific research, spatial prioritisation, and practical
-implementation strategies to maximise environmental impact. We specialise in tropical
-ecosystems and nature-based solutions that address biodiversity loss and climate change.
-</p>
+						<h3>Approach</h3>
 
-<h3>Experience</h3>
+						<p>
+						Our approach combines scientific research, spatial prioritisation, and practical
+						implementation strategies to maximise environmental impact. We specialise in tropical
+						ecosystems and nature-based solutions that address biodiversity loss and climate change.
+						</p>
 
-<p>
-Projects include international feasibility studies, restoration planning, conservation
-prioritisation, and environmental strategy for tropical forests, coral reefs, and
-biodiversity hotspots.
-</p>
+						<h3>Experience</h3>
 
-</article>
+						<p>
+						Projects include international feasibility studies, restoration planning, conservation
+						prioritisation, and environmental strategy for tropical forests, coral reefs, and
+						biodiversity hotspots.
+						</p>
+
+					</article>
+
+				</div>
+			</div>
+
+		</div>
+	</div>
+</section>
 
 </div>
 </div>
