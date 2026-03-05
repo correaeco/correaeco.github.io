@@ -19,7 +19,7 @@ permalink: /projects/
 					<article>
 						<header>
 							<h2>Projects</h2>
-							<p>Selected environmental initiatives and research collaborations.</p>
+							<p>Selected environmental initiatives and spatial analysis projects.</p>
 						</header>
 
 						<span class="image featured">
@@ -28,26 +28,59 @@ permalink: /projects/
 
 						<h3>Coral Reef Restoration – Fiji</h3>
 
+						<p><strong>Partner:</strong> Green Climate Fund (Coral Reef Rescue Initiative)</p>
+
 						<p>
-						Support for feasibility assessments and spatial planning within the
-						Green Climate Fund Coral Reef Rescue Initiative, focusing on
-						prioritisation of restoration areas and ecosystem resilience.
+						<strong>Objective:</strong> Identify priority locations for coral reef restoration
+						and ecosystem resilience across Fiji.
 						</p>
+
+						<p>
+						<strong>Methods:</strong> Spatial prioritisation modelling integrating coral reef
+						distribution, climate vulnerability, and ecological connectivity.
+						</p>
+
+						<p>
+						<strong>Outcome:</strong> Decision-support maps and spatial analysis guiding
+						investment in coral reef restoration and conservation.
+						</p>
+
 
 						<h3>Tropical Forest Restoration</h3>
 
+						<p><strong>Focus:</strong> Landscape-scale restoration planning.</p>
+
 						<p>
-						Development of spatial prioritisation frameworks to identify
-						high-impact restoration opportunities across tropical landscapes,
-						combining biodiversity, climate, and land-use datasets.
+						<strong>Objective:</strong> Identify high-impact areas for forest restoration
+						that maximise biodiversity recovery and climate mitigation.
 						</p>
 
-						<h3>Conservation Planning</h3>
+						<p>
+						<strong>Methods:</strong> GIS modelling combining land-use change,
+						biodiversity data, carbon potential, and restoration opportunity mapping.
+						</p>
 
 						<p>
-						Analyses supporting protected area planning, biodiversity
-						conservation strategies, and environmental investment prioritisation
-						for international organisations and research initiatives.
+						<strong>Outcome:</strong> Spatial prioritisation frameworks supporting
+						governments and conservation organisations.
+						</p>
+
+
+						<h3>Conservation Planning and Spatial Analysis</h3>
+
+						<p>
+						<strong>Objective:</strong> Support environmental planning and biodiversity
+						conservation through advanced spatial analysis.
+						</p>
+
+						<p>
+						<strong>Methods:</strong> GIS-based modelling, landscape analysis,
+						and ecological datasets to inform decision-making.
+						</p>
+
+						<p>
+						<strong>Outcome:</strong> Strategic recommendations for conservation
+						investment and restoration planning.
 						</p>
 
 					</article>
@@ -57,3 +90,4 @@ permalink: /projects/
 
 		</div>
 	</div>
+</section>
