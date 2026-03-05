@@ -17,8 +17,6 @@ permalink: /about/
 
 <section id="banner"></section>
 
-<article>
-
 <p>
 CorreaEco provides advanced spatial analysis and environmental strategy to support
 ecosystem restoration, conservation planning, and climate resilience. The work integrates
