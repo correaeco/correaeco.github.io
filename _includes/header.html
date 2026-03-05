@@ -33,30 +33,30 @@
 
 			<!-- Navigation -->
 			<nav id="nav">
-				<ul>
-					{% assign current = page.url | downcase | split: '/' %}
+	<ul>
+		{% assign current = page.url | downcase | split: '/' %}
 
-					<li {% if page.url == '/' %}class="current"{% endif %}>
-						<a href="{{ site.baseurl }}/">Home</a>
-					</li>
+		<li {% if page.url == '/' %}class="current"{% endif %}>
+			<a href="{{ site.baseurl }}/">Home</a>
+		</li>
 
-					<li {% if current[1] == 'services' %}class="current"{% endif %}>
-						<a href="{{ site.baseurl }}/services/">Services</a>
-					</li>
+		<li {% if current[1] == 'about' %}class="current"{% endif %}>
+			<a href="{{ site.baseurl }}/about/">About</a>
+		</li>
 
-					<li {% if current[1] == 'projects' %}class="current"{% endif %}>
-						<a href="{{ site.baseurl }}/projects/">Projects</a>
-					</li>
+		<li {% if current[1] == 'services' %}class="current"{% endif %}>
+			<a href="{{ site.baseurl }}/services/">Services</a>
+		</li>
 
-					<li {% if current[1] == 'about' %}class="current"{% endif %}>
-						<a href="{{ site.baseurl }}/about/">About</a>
-					</li>
+		<li {% if current[1] == 'projects' %}class="current"{% endif %}>
+			<a href="{{ site.baseurl }}/projects/">Projects</a>
+		</li>
 
-					<li {% if current[1] == 'contact' %}class="current"{% endif %}>
-						<a href="{{ site.baseurl }}/contact/">Contact</a>
-					</li>
+		<li {% if current[1] == 'contact' %}class="current"{% endif %}>
+			<a href="{{ site.baseurl }}/contact/" class="button">Contact</a>
+		</li>
 
-				</ul>
-			</nav>
+	</ul>
+</nav>
 
 		</div>
