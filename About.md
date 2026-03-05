@@ -15,11 +15,7 @@ permalink: /about/
 <p>Science-based environmental consulting.</p>
 </header>
 
-<section id="banner">
-  <header>
-    <h2>About <em>Environmental science, restoration, and spatial planning</em></h2>
-  </header>
-</section>
+<section id="banner"></section>
 
 <article>
 
