@@ -16,7 +16,7 @@ permalink: /about/
 </header>
 
 <span class="image featured">
-<img src="{{ site.baseurl }}/assets/images/Foto2.JPG"
+	<img src="{{ site.baseurl }}/assets/images/Foto2.JPG" alt="Environmental landscape" />
 </span>
 
 <p>
