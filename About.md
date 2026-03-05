@@ -15,9 +15,13 @@ permalink: /about/
 <p>Science-based environmental consulting.</p>
 </header>
 
-<div class="image featured small-banner">
-  <img src="{{ site.baseurl }}/assets/images/Foto2.JPG" alt="Landscape restoration planning" />
-</div>
+<section id="banner">
+  <header>
+    <h2>About <em>Environmental science, restoration, and spatial planning</em></h2>
+  </header>
+</section>
+
+<article>
 
 <p>
 CorreaEco provides advanced spatial analysis and environmental strategy to support
