@@ -16,7 +16,7 @@ permalink: /about/
 </header>
 
 <span class="image featured">
-	<img src="{{ site.baseurl }}/assets/images/Foto2.JPG" alt="Environmental landscape" />
+<img src="/assets/images/Foto2.JPG" alt="Landscape restoration planning" style="max-height:350px; width:auto; display:block; margin:auto;">
 </span>
 
 <p>
