@@ -850,3 +850,14 @@
     background-color: #1b5e20;
     color: #ffffff;
 }
+
+.contact-container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.contact-container input,
+.contact-container textarea {
+    width: 100%;
+    margin-bottom: 15px;
+}
