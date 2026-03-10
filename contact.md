@@ -8,15 +8,21 @@ permalink: /contact/
 
 If you would like to collaborate or inquire about consulting services, please contact me using the form below.
 
+<div class="contact-container">
+
 <form action="https://formspree.io/f/yourID" method="POST">
-  <label>Your Name</label>
-  <input type="text" name="name" required>
 
-  <label>Your Email</label>
-  <input type="email" name="email" required>
+<label>Name</label>
+<input type="text" name="name" required>
 
-  <label>Message</label>
-  <textarea name="message" required></textarea>
+<label>Email</label>
+<input type="email" name="email" required>
 
-  <button type="submit">Send</button>
+<label>Message</label>
+<textarea name="message" rows="5"></textarea>
+
+<button type="submit">Send Message</button>
+
 </form>
+
+</div>
