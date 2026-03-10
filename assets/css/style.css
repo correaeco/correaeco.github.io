@@ -851,9 +851,15 @@
     color: #ffffff;
 }
 
+/* Contact page form */
+
 .contact-container {
     max-width: 500px;
     margin: 0 auto;
+}
+
+.contact-container p {
+    margin-top: 25px;
 }
 
 .contact-container input,
