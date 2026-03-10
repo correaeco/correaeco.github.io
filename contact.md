@@ -6,9 +6,11 @@ permalink: /contact/
 
 ## Contact
 
-If you would like to collaborate or inquire about consulting services, please contact me using the form below.
-
 <div class="contact-container">
+
+<h2>Contact</h2>
+
+<p>If you would like to collaborate or inquire about consulting services, please contact me using the form below.</p>
 
 <form action="https://formspree.io/f/yourID" method="POST">
 
